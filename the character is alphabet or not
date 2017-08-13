@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+int ff;
+printf("enter the character:");
+scanf("%c",&ff);
+if((ff>='a'&&ff<='z')||(ff>='A'&&ff<='Z'))
+{
+printf("the character is alphabet");
+}
+else
+{
+printf("the character is not alphabet");
+}
+return(0);
+}
