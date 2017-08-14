@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+char='hello';
+printf("enter a character=%c",hello);
+printf("enter a character=%c",hello);
+printf("enter a character=%c",hello);
+printf("enter a character=%c",hello);
+printf("enter a character=%c",hello);
+return(0);
+}
