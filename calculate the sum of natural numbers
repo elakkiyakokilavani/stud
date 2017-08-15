@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+int i,sum=0,initial value,end value;
+printf("enter the initial value:\n");
+scanf("%d",&initial value);
+printf("enter the end value:\n");
+scanf("%d",&end value);
+for(i=1;i<=end value;i++);
+{
+sum=sum+i;
+}
+printf("sum=%d:\n",&sum);
+return(0);
+}
